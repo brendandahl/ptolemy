@@ -9,7 +9,8 @@
   "devDependencies": {
     "buffered-reader": "1.0.1",
     "connect": "2.11.0",
-    "jshint": "2.4.x"
+    "jshint": "2.4.x",
+    "mocha": "1.17.x"
   },
   "scripts": {
     "pretest": "jshint src"
